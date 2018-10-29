@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--Rainbow Colors-->
+    <color name="Red">#FF0000</color>
+    <color name="Orange">#FF6600</color>
+    <color name="Yellow">#FFFF66</color>
+    <color name="Lime_Green">#FFA2D800</color>
+    <color name="Dark_Green">#1E8449</color>
+    <color name="Light_Blue">#3399FF</color>
+    <color name="Lavender">#CC99FF</color>
+    <!--Sand Palette-->
+    <color name="sand1">#fbefcc</color>
+    <color name="sand2">#f9ccac</color>
+    <color name="sand3">#f4a688</color>
+    <color name="sand4">#e0876a</color>
+    <color name="sand5">#fff2df</color>
+    <color name="sand6">#d9ad7c</color>
+    <color name="sand7">#a2836e</color>
+    <color name="sand8">#674d3c</color>
+
+</resources>

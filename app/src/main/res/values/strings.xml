@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bank Account</string>
+    <string name="my_name">Lilibeth Torres</string>
+    <string name="show_deposit">Show Deposit Screen</string>
+    <string name="show_withdraw">Show Withdraw Screen</string>
+    <string name="account_name">Account Name</string>
+    <string name="balance">Balance</string>
+    <string name="description">Description</string>
+    <string name="deposit_account">Deposit Account</string>
+    <string name="make_deposit">Make Deposit</string>
+    <string name="withdrawal_amount">Withdrawal Amount</string>
+    <string name="make_withdrawal">Make Withdrawal</string>
+    <string name="version_number">v 2.0</string>
+    <string name="add_account">Add Account</string>
+    <string name="save">Save</string>
+</resources>
